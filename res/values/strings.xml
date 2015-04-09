@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">智回</string>
+     <string name="Mystatus">我的状态</string>
+     <string name="TypeSleep">我在睡觉</string>
+      <string name="TypeOutHome">我不在家</string>
+    <string name="ClickMe">点我</string>
+    <string name="Tiresome">讨厌</string>
+    <string name="NotClickMe">被点</string>
+    <string name="InputUserName">请输入用户名</string>
+    <string name="InputPassWord">请输入密码</string>
+    <string name="UserName">用户名</string>
+    <string name="PassWord">密码</string>
+    <string name="Date">日期</string>
+    <string name="InputDate">请输入日期</string>
+    <string name="SelectBook">请选择喜欢的图书</string>
+    
+
+</resources>
